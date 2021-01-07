@@ -1,6 +1,6 @@
 # Overview
 
-Followed tutorials made by "Carberra Tutorials" to create a bot for a Twitch account chat. It has numerous functionalities where it can interact with the chat and have custom commands. It also has the use of a database to allow storing of information such as usernames and ids
+Followed tutorials made by "Carberra Tutorials" to create a bot for a Twitch account chat. It is a Twitch chat bot written from scratch. It has numerous functionalities where it can interact with the chat and have custom commands. It also has the use of a database to allow storing of information such as usernames and ids
 
 ## Functionalities/Commands
 
