@@ -1,0 +1,2 @@
+client_id: 			bcjq3tz9l1qqcnoy2wg3fz0dolncgf
+oauth password:      oauth:40vww19q7ffwfttg5fjr5tpp81dc4c
